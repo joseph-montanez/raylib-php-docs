@@ -1,12 +1,1 @@
-<svg width="40px" height="45px" viewBox="0 0 40 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="04-docs-start" transform="translate(-170.000000, -28.000000)">
-            <g id="Group" transform="translate(170.000000, 28.000000)">
-                <polygon id="Rectangle-3-Copy" fill="#338CD6" points="20 0 40 10 40 35 20 45 0 35 0 10"></polygon>
-                <polygon id="Rectangle-3-Copy-2" fill="#1C3E5A" points="20 20 20 45 0 35 0 10"></polygon>
-                <polygon id="Rectangle-3" fill="#B9DAF5" points="20 0 40 10 20 20 0 10"></polygon>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024"><defs><style>.cls-1{fill:#777bb3;stroke:#231f20;stroke-miterlimit:10;stroke-width:20px;}.cls-2{fill:#fff;}.cls-3{fill:#231f20;}</style></defs><rect class="cls-1" x="10" y="10" width="1004" height="1004"/><path class="cls-2" d="M264.21,583.18H368.93v21H285.19v83.91h83.9V583.18h21V709H285.19v42h-21Z"/><path class="cls-2" d="M411.05,520.25h21v62.93H536.9V709h-21V604.15H432V709h-21Z"/><path class="cls-2" d="M557.88,583.18H662.59v21H578.86v83.91h83.9V583.18h21V709H578.86v42h-21Z"/><path class="cls-3" d="M285.19,910.41h-21V784.55H369.09v21h-83.9Z"/><path class="cls-3" d="M495,805.52H390.07v-21H515.93V910.41H390.07V847.64h21v41.79H495V847.48H390.07v-21H495Z"/><path class="cls-3" d="M536.9,931.38H641.78v-21H536.9V784.55h21V889.43h83.9V784.55h21V952.36H536.9Z"/><path class="cls-3" d="M683.74,721.62h21V889.43h42v21H683.74Z"/><path class="cls-3" d="M767.64,721.62h21v21h-21Zm0,62.93h21V910.41h-21Z"/><path class="cls-3" d="M809.59,721.62h21v62.93h83.74v21H830.57v83.91h83.9V784.55h21V910.41H809.59Z"/></svg>
